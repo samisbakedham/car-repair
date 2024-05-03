@@ -10,7 +10,7 @@ You can get the code by either cloning this repository using git
 git clone https://github.com/kahasan/car-repair.git
 ```
 
-... or [downloading source code](https://github.com/kahasan/car-repair/archive/master.zip) code as a zip archive.
+... or [downloading source code](https://github.com/samisbakedham/car-repair/archive/master.zip) code as a zip archive.
 
 Once downloaded, open the terminal in the project directory, and install dependencies with:
 
