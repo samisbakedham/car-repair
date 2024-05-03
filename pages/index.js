@@ -22,12 +22,11 @@ export default () => {
       </div>
       <Maincard
         subject="WHO WE ARE"
-        title="Nemo enim ipsam voluptatem quia voluptas in proident"
-        text="Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-            suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis
-            autem vel eum iure reprehenderit qui in ea voluptate velit esse quam
-            nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-            voluptas nulla pariatur."
+        title="Orcutt Auto Repair"
+        text="Committed to Excellence in Auto Repair
+            At Orcutt Auto Repair, we provide professional and reliable vehicle maintenance services. 
+          Our team of certified technicians is dedicated to ensuring your vehicle performs at its best. 
+          Trust us to handle everything from routine inspections to complex repairs with precision and care."
         img="/first-cover.png"
         offLinks={{ display: 'none' }}
         bg={{
